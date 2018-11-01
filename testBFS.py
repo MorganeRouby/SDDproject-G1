@@ -2,7 +2,7 @@
 
 import unittest
 from Graph import *
-from copy import *
+from copy import copy
 
 class testBFS(unittest.TestCase):
     def setUp(self):
